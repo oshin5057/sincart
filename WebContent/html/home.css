@@ -1,0 +1,53 @@
+#body
+{
+	height: 610px;
+	width: 1350px;
+	background-color:#E74C3C;
+}
+.div1
+{
+	height: 170px;
+	width: 1350px;
+	background-color:#EC7063;
+	
+}
+.div2
+{
+	height: 350px;
+	width: 1350px;
+	background-color:#839192;
+}
+.div3
+{
+	height: 130px;
+	width: 1350px;
+	background-color:#EC7063;
+}
+.div21
+{
+	height: 340px;
+	width: 340px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	background-color:#F8F9F9;
+}
+.div22
+{
+	height: 340px;
+	width: 660px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	background-color:#D7DBDD;
+}
+.div23
+{
+	height: 340px;
+	width: 310px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	background-color:#F8F9F9;
+} 
